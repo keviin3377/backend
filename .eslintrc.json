@@ -1,5 +1,4 @@
 {
-
 "parserOptions": {
   "ecmaVersion": 2018
 },
@@ -9,10 +8,7 @@
 "node": true,
 "jest": true
 },
-
 "rules": {
   "no-console":"warn"
 }
-
-
 }
